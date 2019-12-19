@@ -1,0 +1,9 @@
+{
+  "name": "wy-utils",
+  "version": "1.0.0",
+  "description": "utils debonce trottle time ",
+  "main": "./lib/index.js",
+  "repository": "https://github.com/wy2008826/wy-utils.git",
+  "author": "wangyu <760104178@qq.com>",
+  "license": "MIT"
+}
